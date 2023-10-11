@@ -1,3 +1,0 @@
-/Users/jon_wang/CLionProjects/lab_05/cmake-build-debug/CMakeFiles/lab_05.dir
-/Users/jon_wang/CLionProjects/lab_05/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jon_wang/CLionProjects/lab_05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
