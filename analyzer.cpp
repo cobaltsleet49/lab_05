@@ -102,31 +102,31 @@ int main() {
     cout << index2 << "\n";
 
     cout << "Linear Search for 'mzzzz'" << "\n";
-    const long start = systemTimeNanoseconds();
-    int index = linear_search(stringData, "not_here");
-    const long end = systemTimeNanoseconds();
-    cout << end - start << "\n";
-    cout << index << "\n";
+    const long start3 = systemTimeNanoseconds();
+    int index3 = linear_search(stringData, "not_here");
+    const long end3 = systemTimeNanoseconds();
+    cout << end3 - start3 << "\n";
+    cout << index3 << "\n";
 
     cout << "Binary Search for 'mzzzz'" << "\n";
-    const long start2 = systemTimeNanoseconds();
-    int index2 = binary_search(stringData, "not_here");
-    const long end2 = systemTimeNanoseconds();
-    cout << end2 - start2 << "\n";
-    cout << index2 << "\n";
+    const long start4 = systemTimeNanoseconds();
+    int index4 = binary_search(stringData, "not_here");
+    const long end4 = systemTimeNanoseconds();
+    cout << end4 - start4 << "\n";
+    cout << index4 << "\n";
 
     cout << "Linear Search for 'aaaaa'" << "\n";
-    const long start = systemTimeNanoseconds();
-    int index = linear_search(stringData, "not_here");
-    const long end = systemTimeNanoseconds();
-    cout << end - start << "\n";
-    cout << index << "\n";
+    const long start5 = systemTimeNanoseconds();
+    int index5 = linear_search(stringData, "not_here");
+    const long end5 = systemTimeNanoseconds();
+    cout << end5 - start5 << "\n";
+    cout << index5 << "\n";
 
     cout << "Binary Search for 'aaaaa'" << "\n";
-    const long start2 = systemTimeNanoseconds();
-    int index2 = binary_search(stringData, "not_here");
-    const long end2 = systemTimeNanoseconds();
-    cout << end2 - start2 << "\n";
+    const long start6 = systemTimeNanoseconds();
+    int index6 = binary_search(stringData, "not_here");
+    const long end6 = systemTimeNanoseconds();
+    cout << end6 - start6 << "\n";
     cout << index2 << "\n";
 
 }
