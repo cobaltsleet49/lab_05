@@ -1,4 +1,4 @@
-// Lab 05:
+// Lab 05: Software Engineering
 // Lab Partner: Chloe
 
 #include "StringData.h"
