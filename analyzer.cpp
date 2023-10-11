@@ -1,5 +1,5 @@
 // Lab 05: Software Engineering
-// Lab Partners: Chloe, Jonathan
+// Lab Partner: Chloe
 
 #include "StringData.h"
 #include <iostream>
